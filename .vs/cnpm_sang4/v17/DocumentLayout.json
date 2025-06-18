@@ -1,37 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\QLKS\\cnpm_sang4\\",
+  "WorkspaceRootPath": "E:\\Ngay8\\cnpm_sang4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|c:\\qlks\\cnpm_sang4\\cnpm_sang4\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|c:\\qlks\\cnpm_sang4\\cnpm_sang4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|c:\\qlks\\cnpm_sang4\\cnpm_sang4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|c:\\qlks\\cnpm_sang4\\cnpm_sang4\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|c:\\qlks\\cnpm_sang4\\cnpm_sang4\\views\\auth\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\views\\auth\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\views\\auth\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|c:\\qlks\\cnpm_sang4\\cnpm_sang4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|c:\\qlks\\cnpm_sang4\\cnpm_sang4\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|c:\\qlks\\cnpm_sang4\\cnpm_sang4\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|e:\\ngay8\\cnpm_sang4\\cnpm_sang4\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA9124E-2710-480C-9195-A58F8118CB47}|cnpm_sang4\\cnpm_sang4.csproj|solutionrelative:cnpm_sang4\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,32 +50,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\appsettings.json",
-              "RelativeDocumentMoniker": "cnpm_sang4\\appsettings.json",
-              "ToolTip": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\appsettings.json",
-              "RelativeToolTip": "cnpm_sang4\\appsettings.json",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "cnpm_sang4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "cnpm_sang4\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-18T02:40:23.526Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T02:56:48.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "users.json",
-              "DocumentMoniker": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Data\\users.json",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Data\\users.json",
               "RelativeDocumentMoniker": "cnpm_sang4\\Data\\users.json",
-              "ToolTip": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Data\\users.json",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Data\\users.json",
               "RelativeToolTip": "cnpm_sang4\\Data\\users.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -76,37 +96,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Program.cs",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Program.cs",
               "RelativeDocumentMoniker": "cnpm_sang4\\Program.cs",
-              "ToolTip": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Program.cs",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Program.cs",
               "RelativeToolTip": "cnpm_sang4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:38:16.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:38:16.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Data\\UserData.cs",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Data\\UserData.cs",
               "RelativeDocumentMoniker": "cnpm_sang4\\Data\\UserData.cs",
-              "ToolTip": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Data\\UserData.cs",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Data\\UserData.cs",
               "RelativeToolTip": "cnpm_sang4\\Data\\UserData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:34:57.232Z",
+              "WhenOpened": "2025-06-18T02:34:57.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "cnpm_sang4\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "cnpm_sang4\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T02:34:23.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Views\\Auth\\Home.cshtml",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Views\\Auth\\Home.cshtml",
               "RelativeDocumentMoniker": "cnpm_sang4\\Views\\Auth\\Home.cshtml",
-              "ToolTip": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Views\\Auth\\Home.cshtml",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Views\\Auth\\Home.cshtml",
               "RelativeToolTip": "cnpm_sang4\\Views\\Auth\\Home.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -115,42 +146,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "cnpm_sang4\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "cnpm_sang4\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "cnpm_sang4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "cnpm_sang4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-18T02:34:23.532Z",
+              "WhenOpened": "2025-06-18T02:56:49.875Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\appsettings.json",
+              "RelativeDocumentMoniker": "cnpm_sang4\\appsettings.json",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\appsettings.json",
+              "RelativeToolTip": "cnpm_sang4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T02:40:23.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "cnpm_sang4\\Models\\UserModel.cs",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Models\\UserModel.cs",
+              "RelativeToolTip": "cnpm_sang4\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:34:03.966Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "cnpm_sang4\\Models\\UserModel.cs",
-              "ToolTip": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Models\\UserModel.cs",
-              "RelativeToolTip": "cnpm_sang4\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:34:03.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "cnpm_sang4\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\QLKS\\cnpm_sang4\\cnpm_sang4\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Ngay8\\cnpm_sang4\\cnpm_sang4\\Controllers\\AuthController.cs",
               "RelativeToolTip": "cnpm_sang4\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:33:48.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:33:48.234Z"
             }
           ]
         }
