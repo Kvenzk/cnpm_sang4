@@ -1,19 +1,23 @@
 ﻿@{
     ViewBag.Title = "Đăng nhập";
 }
-<h2 style="text-align:center; color:#3a3a3a; margin-bottom:20px;">Đăng nhập</h2>
-<form method="post" style="max-width:350px;margin:0 auto;padding:28px 24px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.07);background:#fafbfc;">
+<h2 style="text-align:center; color:#3a3a3a; margin-bottom:20px; font-weight:600;">Đăng nhập</h2>
+<form method="post" style="max-width:350px;margin:0 auto;padding:28px 24px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.07);background:linear-gradient(145deg, #ffffff, #f3f4f6);">
     <input type="text" name="username" placeholder="Tên đăng nhập"
-           style="width:100%;padding:10px 12px;margin-bottom:15px;border:1.2px solid #d1d5db;border-radius:6px;font-size:16px;outline:none;" />
+           style="width:100%;padding:10px 12px;margin-bottom:15px;border:1px solid #d1d5db;border-radius:6px;font-size:16px;outline:none;transition:border 0.2s, box-shadow 0.2s;"
+           onfocus="this.style.borderColor='#3b82f6';this.style.boxShadow='0 0 0 2px rgba(59,130,246,0.2)'"
+           onblur="this.style.borderColor='#d1d5db';this.style.boxShadow='none'" />
     <input type="password" name="password" placeholder="Mật khẩu"
-           style="width:100%;padding:10px 12px;margin-bottom:15px;border:1.2px solid #d1d5db;border-radius:6px;font-size:16px;outline:none;" />
+           style="width:100%;padding:10px 12px;margin-bottom:15px;border:1px solid #d1d5db;border-radius:6px;font-size:16px;outline:none;transition:border 0.2s, box-shadow 0.2s;"
+           onfocus="this.style.borderColor='#3b82f6';this.style.boxShadow='0 0 0 2px rgba(59,130,246,0.2)'"
+           onblur="this.style.borderColor='#d1d5db';this.style.boxShadow='none'" />
     <div style="margin-bottom:15px;">
         <label style="font-size:14px; color:#5a5a5a;">
             <input type="checkbox" name="remember" style="margin-right:5px;" /> Nhớ đăng nhập
         </label>
     </div>
     <button type="submit"
-            style="width:100%;padding:10px 0;border:none;border-radius:6px;background:#3b82f6;color:#fff;font-weight:600;font-size:17px;cursor:pointer;box-shadow:0 1px 4px rgba(59,130,246,0.13);transition:background 0.2s;">
+            style="width:100%;padding:10px 0;border:none;border-radius:6px;background:#3b82f6;color:#fff;font-weight:600;font-size:17px;cursor:pointer;box-shadow:0 2px 8px rgba(59,130,246,0.2);transition:background 0.2s;">
         Đăng nhập
     </button>
     <div style="color:#ef4444;margin-top:14px;text-align:center;">@ViewBag.Error</div>
