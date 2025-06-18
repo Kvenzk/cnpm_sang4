@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cnpm_sang4.props" />
+</Project>
