@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cnpm_sang4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be29505371f458a441219b8247e1986518699c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc4a162feba9f8bc1e35bbe41c6d505050e68db7")]
 [assembly: System.Reflection.AssemblyProductAttribute("cnpm_sang4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cnpm_sang4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
